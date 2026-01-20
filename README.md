@@ -21,7 +21,9 @@ The system is built around **ESP32-C3**, ensuring **low latency**, **privacy (cl
 Overall pipeline:
 
 **Sensors → Preprocessing → Feature Extraction → TinyML Inference → Alert**
-<img width="242" height="475" alt="image" src="https://github.com/user-attachments/assets/d92ada27-03f7-4de1-8a8b-fb42a0d137b4" />
+
+<img width="505" height="799" alt="image" src="https://github.com/user-attachments/assets/b2980494-c82c-480d-9048-e0d30ef86acb" />
+
 
 Key processing includes:
 - Sensor acquisition in real time
@@ -33,6 +35,8 @@ Key processing includes:
 ---
 
 ## Hardware Design
+
+<img width="750" height="298" alt="image" src="https://github.com/user-attachments/assets/895be4b4-1697-4311-b359-a78e26941b07" />
 
 ### Components Used
 - **ESP32-C3 Dev Board** (main controller)
@@ -107,14 +111,9 @@ This project demonstrates a practical **low-power TinyML wearable** for fall det
 
 ---
 
-## Documentation
-- Full project report: `docs/Project report - Final.pdf`
-
----
-
 ## Repo Structure
 - docs/ -> report/presentation
 - images/ -> diagrams, prototype photos, results plots
 - hardware/ -> BOM + wiring notes
-- software/ -> firmware + ML pipeline (code will be added)
+- software/ -> firmware + ML pipeline
 - results/ -> evaluation metrics and output
