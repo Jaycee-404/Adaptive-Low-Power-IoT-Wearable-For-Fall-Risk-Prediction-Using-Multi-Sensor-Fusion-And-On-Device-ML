@@ -1,5 +1,7 @@
 # Adaptive Low-Power IoT Wearable for Fall Risk Prediction (TinyML + Sensor Fusion)
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 > **3-Credit Semester Project | IoT + Embedded ML | Real-Time Wearable System**
 
 ## Project Overview
