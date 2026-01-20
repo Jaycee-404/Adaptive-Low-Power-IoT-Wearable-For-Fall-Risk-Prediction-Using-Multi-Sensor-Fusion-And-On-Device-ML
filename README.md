@@ -4,13 +4,6 @@
 
 📌 A low-power wearable device that performs fall detection and fall-risk prediction using multi-sensor fusion and on-device TinyML inference (ESP32-C3 + TFLite Micro).
 
----
-
-## 🖼️ Project Banner (Add Here)
-**Add:** `images/banner.png` *(prototype photo / poster-style banner)*
-
-```md
-![Project Banner](images/banner.png)
 Project Overview
 Falls are a major safety risk for elderly and mobility-impaired individuals. This project presents an energy-efficient IoT wearable capable of real-time fall detection and fall-risk prediction using multi-sensor fusion and on-device machine learning (TinyML).
 
