@@ -22,8 +22,7 @@ Overall pipeline:
 
 **Sensors → Preprocessing → Feature Extraction → TinyML Inference → Alert**
 
-<img width="505" height="799" alt="image" src="https://github.com/user-attachments/assets/b2980494-c82c-480d-9048-e0d30ef86acb" />
-
+<img width="303" height="599" alt="image" src="https://github.com/user-attachments/assets/b2980494-c82c-480d-9048-e0d30ef86acb" />
 
 Key processing includes:
 - Sensor acquisition in real time
@@ -36,7 +35,7 @@ Key processing includes:
 
 ## Hardware Design
 
-<img width="750" height="298" alt="image" src="https://github.com/user-attachments/assets/895be4b4-1697-4311-b359-a78e26941b07" />
+<img width="750" height="298" alt="image" src="https://github.com/user-attachments/assets/5298b8a7-76a7-4b52-a961-b813caa090f5" />
 
 ### Components Used
 - **ESP32-C3 Dev Board** (main controller)
