@@ -2,7 +2,7 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> **3-Credit Semester Project | IoT + Embedded ML | Real-Time Wearable System**
+> **IoT + Embedded ML | Real-Time Wearable System**
 
 ## Project Overview
 Falls are a major safety risk for elderly and mobility-impaired individuals. This project presents an **energy-efficient IoT wearable** capable of **real-time fall detection** and **fall-risk prediction** using **multi-sensor fusion** and **on-device machine learning (TinyML)**.
